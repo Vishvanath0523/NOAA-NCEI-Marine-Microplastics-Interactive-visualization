@@ -3,7 +3,7 @@
 <h1 align="center">🌊 NOAA-NCEI Marine Microplastics – Interactive Visualization</h1>
 <p align="center">
   <em>Explore 17 000+ global microplastic samples (2010-2025) in a single web map</em><br>
-  <a href="https://your-username.github.io/NOAA-NCEI-Marine-Microplastics-Interactive-visualization"><img src="https://img.shields.io/badge/Demo-Live-informational?style=flat&logo=google-chrome" alt="Live demo"></a>
+  <a href="https://vishvanath0523.github.io/NOAA-NCEI-Marine-Microplastics-Interactive-visualization/"><img src="https://img.shields.io/badge/Demo-Live-informational?style=flat&logo=google-chrome" alt="Live demo"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/your-username/NOAA-NCEI-Marine-Microplastics-Interactive-visualization" alt="License"></a>
   <img src="https://img.shields.io/github/languages/top/your-username/NOAA-NCEI-Marine-Microplastics-Interactive-visualization?color=blue" alt="Top language">
 </p>
