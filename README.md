@@ -49,3 +49,10 @@ python -m http.server 8000
 
 # 3. open your browser
 http://localhost:8000
+| Layer                  | Library / Tool                                                            |
+| ---------------------- | ------------------------------------------------------------------------- |
+| Map rendering          | [Leaflet 1.9](https://leafletjs.com/)                                     |
+| Clustering             | [Leaflet.MarkerCluster](https://github.com/Leaflet/Leaflet.markercluster) |
+| Colour scales & legend | [D3 v7](https://d3js.org/)                                                |
+| Theme toggle           | Vanilla JS + CSS variables                                                |
+| PPT & docs             | [`python-pptx`](https://python-pptx.readthedocs.io/)                      |
