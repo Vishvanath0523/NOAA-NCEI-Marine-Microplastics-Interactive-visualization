@@ -37,22 +37,4 @@ Exported as **GeoJSON** and stored in<br>`/data/Marine_Microplastics.geojson`
 
 ---
 
-## ⚙️ Quick Start
 
-```bash
-# 1. clone the repo
-git clone https://github.com/your-username/NOAA-NCEI-Marine-Microplastics-Interactive-visualization.git
-cd NOAA-NCEI-Marine-Microplastics-Interactive-visualization
-
-# 2. start a tiny local server (Python ≥3.8)
-python -m http.server 8000
-
-# 3. open your browser
-http://localhost:8000
-| Layer                  | Library / Tool                                                            |
-| ---------------------- | ------------------------------------------------------------------------- |
-| Map rendering          | [Leaflet 1.9](https://leafletjs.com/)                                     |
-| Clustering             | [Leaflet.MarkerCluster](https://github.com/Leaflet/Leaflet.markercluster) |
-| Colour scales & legend | [D3 v7](https://d3js.org/)                                                |
-| Theme toggle           | Vanilla JS + CSS variables                                                |
-| PPT & docs             | [`python-pptx`](https://python-pptx.readthedocs.io/)                      |
