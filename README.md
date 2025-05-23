@@ -37,4 +37,33 @@ Exported as **GeoJSON** and stored in<br>`/data/Marine_Microplastics.geojson`
 
 ---
 
+🔍 Key Insights
+North Atlantic gyre hosts the largest sampling cluster (8 000 + records) → validates its role as a plastic accumulation zone.
+
+Mediterranean Sea shows dense coastal clusters, mirroring high population & tourism pressure.
+
+Southern Ocean remains an under-sampled blind spot south of 40° S.
+
+90 % of samples are surface-only → deeper transects needed to understand vertical distribution.
+
+See /docs/interpretation.txt for the full narrative.
+
+📝 Roadmap
+ Add numeric concentration heat-map layer
+
+ Time-slider (Leaflet.TimeDimension) for 2010-2025 trends
+
+ Overlay marine-protected areas & shipping lanes
+
+ GitHub Pages deployment pipeline (GH-Actions)
+
+🤝 Contributing
+Pull requests are welcome! Please open an issue first to discuss major changes.
+
+🙏 Acknowledgements
+NOAA National Centers for Environmental Information (NCEI) for making the global microplastics archive publicly available.
+
+Icons by Lucide.
+
+Gradient inspiration from uiGradients.
 
